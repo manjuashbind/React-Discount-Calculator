@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/manjuashbind/React-Discount-Calculator/static/css/main.b972f816.css",
-    "main.js": "/manjuashbind/React-Discount-Calculator/static/js/main.feb34fa7.js",
-    "static/media/bg-img-2.jpg": "/manjuashbind/React-Discount-Calculator/static/media/bg-img-2.12ea0f510d2ca966e792.jpg",
-    "index.html": "/manjuashbind/React-Discount-Calculator/index.html",
-    "main.b972f816.css.map": "/manjuashbind/React-Discount-Calculator/static/css/main.b972f816.css.map",
-    "main.feb34fa7.js.map": "/manjuashbind/React-Discount-Calculator/static/js/main.feb34fa7.js.map"
+    "main.css": "/React-Discount-Calculator/static/css/main.0b5040bb.css",
+    "main.js": "/React-Discount-Calculator/static/js/main.feb34fa7.js",
+    "static/media/bg-img-2.jpg": "/React-Discount-Calculator/static/media/bg-img-2.12ea0f510d2ca966e792.jpg",
+    "index.html": "/React-Discount-Calculator/index.html",
+    "main.0b5040bb.css.map": "/React-Discount-Calculator/static/css/main.0b5040bb.css.map",
+    "main.feb34fa7.js.map": "/React-Discount-Calculator/static/js/main.feb34fa7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b972f816.css",
+    "static/css/main.0b5040bb.css",
     "static/js/main.feb34fa7.js"
   ]
 }
