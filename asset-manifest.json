@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/manjuashbind/React-Discount-Calculator/static/css/main.b972f816.css",
+    "main.js": "/manjuashbind/React-Discount-Calculator/static/js/main.feb34fa7.js",
+    "static/media/bg-img-2.jpg": "/manjuashbind/React-Discount-Calculator/static/media/bg-img-2.12ea0f510d2ca966e792.jpg",
+    "index.html": "/manjuashbind/React-Discount-Calculator/index.html",
+    "main.b972f816.css.map": "/manjuashbind/React-Discount-Calculator/static/css/main.b972f816.css.map",
+    "main.feb34fa7.js.map": "/manjuashbind/React-Discount-Calculator/static/js/main.feb34fa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b972f816.css",
+    "static/js/main.feb34fa7.js"
+  ]
+}
